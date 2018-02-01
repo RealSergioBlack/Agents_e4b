@@ -68,7 +68,6 @@ public class Application {
 			// Inserción en la base de datos
 			repository.save(new Participant("Jose", "Ballesteros", "123456", fecha6, "jose@gmail.com", "44556677F",
 					"Calle Asturias", "Española", false, true));
-
 		};
 	}
 }
